@@ -24,6 +24,6 @@ let userAns = "";
 function rating(){
     let userAns = prompt("How would you rate my webpage 1-5?");
     for(let x = 0; x < userAns; x++){
-        document.getElementById("thisPar").innerHTML += "<img src = https://imgur.com/a/5XEScXB>"
+        document.getElementById("thisPar").innerHTML += "<img src = https://i.imgur.com/1aFRjRj.png>"
     }
 }
